@@ -1,4 +1,4 @@
-# Demo: Bare-metal programming of Arduino
+# Bare-metal programming of Arduino: blink on button click
 
 ## Prerequisites
 
